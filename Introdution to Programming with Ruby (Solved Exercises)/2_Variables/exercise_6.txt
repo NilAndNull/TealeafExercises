@@ -1,0 +1,1 @@
+A variable or method with name shoes is being called, but it's not defined or initialized in an acessible scope. 

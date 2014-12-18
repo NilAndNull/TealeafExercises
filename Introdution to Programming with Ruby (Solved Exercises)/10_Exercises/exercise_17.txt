@@ -1,0 +1,1 @@
+It will output "These hashes are the same!". The order does not matter, as long as the pairs of key and values are the same. 

@@ -1,0 +1,1 @@
+Because an 'end' of the if statement is missing. To correct it, add the 'end' word after 'puts "nope"' 

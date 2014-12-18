@@ -1,0 +1,4 @@
+The first case prints 3 and the second case returns an error. 
+
+The second case returns an error because it calls for a variable that is out of scope, since it was initialized in a do/end block and the call is out of that block. 
+

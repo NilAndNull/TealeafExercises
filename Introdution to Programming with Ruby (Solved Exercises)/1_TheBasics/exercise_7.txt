@@ -1,0 +1,1 @@
+The IRB returned an error. That error is a syntax error. It was expecting a '}' but instead found an ')' and that originated an error. Usually that means that we didn't close a bracket after we opened it.

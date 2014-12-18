@@ -1,0 +1,1 @@
+The method hi is a private method, that means that it cannot be called outside the class Person. To fix it, we can change the method hi to public (by moving it above the private keyword), in order to be possible to call it. 

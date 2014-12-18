@@ -1,0 +1,1 @@
+The attribute name is defined with attr_reader, which makes this atribute read-only. To fix it, just change attr_reader to attr_accessor

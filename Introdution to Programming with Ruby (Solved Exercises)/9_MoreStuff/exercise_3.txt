@@ -1,0 +1,1 @@
+Exception handling is a mechanism of capturing errors as objects and do a proper treatment to them. This allows to process errors without stoping the program. 

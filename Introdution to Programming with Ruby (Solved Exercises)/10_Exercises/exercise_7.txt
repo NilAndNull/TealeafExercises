@@ -1,0 +1,3 @@
+An array is an ordered list of objects, it has an index and a value. An index is always an integer and the value can be any object.
+
+A Hash is a list of key/value pairs. The key can be any object, but keys are unique. Values can be any object. 

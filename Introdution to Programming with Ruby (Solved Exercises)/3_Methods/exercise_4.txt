@@ -1,0 +1,1 @@
+It does not print anything, since the method scream returns before the puts method is evaluated.

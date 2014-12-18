@@ -1,0 +1,1 @@
+The difference is in the key of the hash. In the first case the key is the symbol :x and in the second case, the key is the string "hi there".

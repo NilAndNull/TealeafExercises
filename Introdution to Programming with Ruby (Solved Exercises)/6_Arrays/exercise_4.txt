@@ -1,0 +1,5 @@
+1. Returns 3.
+
+2. Returns an error, since you are trying to treat an enumerator as an array, by using [].
+
+3. Returns 8.

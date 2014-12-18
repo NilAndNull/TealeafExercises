@@ -1,0 +1,12 @@
+For Ruby: 
+
+http://ruby-doc.org
+https://rubydocs.org
+
+For Rails:
+
+http://api.rubyonrails.org
+https://rubydocs.org
+
+
+The official documentation seems fine, but I would like a clear, easy to read and better browsable documentation. Maybe it exists, but I didn't found it yet. 
